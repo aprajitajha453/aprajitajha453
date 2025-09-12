@@ -1,4 +1,4 @@
-![logo](https://github.com/aprajitajha453/aprajitajha453/blob/main/img.jpg.jpg)
+![logo](https://github.com/aprajitajha453/aprajitajha453/blob/main/banner.jpg.jpg)
 <h1 align="center">Hi 👋, I'm Aprajita Kumari Jha</h1>
 <h3 align="center">A passionate frontend developer & full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
